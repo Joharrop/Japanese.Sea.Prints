@@ -1,0 +1,13 @@
+{
+  "id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Joharrop/Japanese.Sea.Prints project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest2.json",
+    "label" : "Waves"
+  } ]
+}
