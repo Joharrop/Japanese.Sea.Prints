@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest2.json",
     "label" : "Waves"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest1a.json",
+    "label" : "Japanese Prints"
   } ]
 }
