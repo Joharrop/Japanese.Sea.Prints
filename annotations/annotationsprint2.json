@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "wave",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>wave</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102870310873464425091",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T07:44:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642664687773",
+    "dcterms:modified" : "2022-01-20T07:44:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest1a.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2355,1390,1504,798"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2575.10238,1506.60865c138.83432,-66.98096 334.68263,-116.85941 531.48002,-116.79981v0v0c196.79738,0.05959 368.24092,46.72008 531.48002,116.79981c163.2391,70.07974 226.68807,176.86773 220.14623,281.97969c-6.54184,105.11197 -83.07447,208.54791 -220.14623,281.97969c-137.07176,73.43178 -334.68263,116.85941 -531.48002,116.79981c-196.79738,-0.05959 -392.78128,-43.6064 -531.48002,-116.79981c-138.69874,-73.19342 -220.11234,-176.03344 -220.14623,-281.97969c-0.0339,-105.94625 81.31191,-214.99874 220.14623,-281.97969z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_5c6994ca-d5f4-47fb-8b61-af22c6ef3659\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://5c731931-3f0b-49bb-8862-9b7d94260fc1"
+    } ]
+  } ],
+  "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/annotationsprint2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
