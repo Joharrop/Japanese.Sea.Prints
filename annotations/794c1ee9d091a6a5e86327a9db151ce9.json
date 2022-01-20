@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "flower",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>flower</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102870310873464425091",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T07:47:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642664852198",
+    "dcterms:modified" : "2022-01-20T07:47:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest1a.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2120,3226,4906,3298"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2838.74687,3708.98605c452.99935,-276.9607 1092.02834,-483.20395 1734.15403,-482.95754v0v0c642.1257,0.24641 1201.5249,193.18364 1734.15403,482.95754c532.62913,289.7739 739.65532,731.33339 718.31012,1165.96265c-21.3452,434.62927 -271.06181,862.32832 -718.31012,1165.96265c-447.24831,303.63433 -1092.02834,483.20395 -1734.15403,482.95754c-642.1257,-0.24641 -1281.59707,-180.30884 -1734.15403,-482.95754c-452.55696,-302.6487 -718.19952,-727.88368 -718.31012,-1165.96265c-0.1106,-438.07898 265.31077,-889.00195 718.31012,-1165.96265z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2c017b16-1d99-4d8f-b55c-bd89847b7f2b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://62ba7a6e-7099-41ec-9d59-974ddb5fef4e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Foliage",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Foliage</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/102870310873464425091",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-01-20T07:50:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1642665015707",
+    "dcterms:modified" : "2022-01-20T07:50:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest1a.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=445,3780,2665,4024"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M835.51119,4369.31735c246.06185,-337.95548 593.17195,-589.61948 941.96413,-589.3188v0v0c348.79218,0.30067 652.64869,235.72829 941.96413,589.3188c289.31544,353.59052 401.76868,892.39421 390.17432,1422.74145c-11.59437,530.34724 -147.23634,1052.23803 -390.17432,1422.74145c-242.93797,370.50342 -593.17195,589.61948 -941.96413,589.3188c-348.79218,-0.30067 -696.14258,-220.01808 -941.96413,-589.3188c-245.82155,-369.30073 -390.11424,-888.18478 -390.17432,-1422.74145c-0.06007,-534.55667 144.11247,-1084.78597 390.17432,-1422.74145z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_c9a6b7d9-6e6d-4d31-aaae-c31b10526fd3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://62ba7a6e-7099-41ec-9d59-974ddb5fef4e"
+    } ]
+  } ],
+  "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/794c1ee9d091a6a5e86327a9db151ce9.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
