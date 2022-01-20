@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/01ee362a8aef1fcc69f86366fe4880d9.json", "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/5c84f3f6337d76711556ff4bfc3ed185.json" ],
+  "otherContent" : [ "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/01ee362a8aef1fcc69f86366fe4880d9.json", "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/5c84f3f6337d76711556ff4bfc3ed185.json", "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/9fca5aeafdf0b529b5a40aac79536d85.json" ],
   "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/annotations/collection.json",
   "label" : "All annotations loaded in Joharrop/Japanese.Sea.Prints project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
