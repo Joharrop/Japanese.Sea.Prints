@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/Annotated.Japanese.Prints",
     "label" : "Japanese Prints"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest3.json",
+    "label" : "Japanese Prints"
   } ]
 }
