@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest1a.json",
-    "label" : "Japanese Prints"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/Annotated.Japanese.Prints",
     "label" : "Japanese Prints"
   } ]
