@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest5.json",
     "label" : "Japanese Prints"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Joharrop.github.io/Japanese.Sea.Prints/manifests/manifest.json",
+    "label" : "British Library Cotton MS Nero A V Philippe de Thaon, Comput ; Bestiarius ; Elias of Evesham, Quadrilogus de Vita Sancti Thome Cantuariensis"
   } ]
 }
